@@ -1,0 +1,11 @@
+celery
+click
+flask
+flask-cache
+flask-classful
+flask-session
+flask-sqlalchemy
+gevent
+gunicorn
+python-twitter
+redis
